@@ -1,0 +1,16 @@
+{
+  "name": "sdinteractive/AjaxAddToCart",
+  "description": "The aim is to provide a drop-in replacement for the tradition card add form post, which requires a redirect in vanilla Magento.",
+  "type": "magento-module",
+  "homepage": "https://github.com/sdinteractive/SomethingDigital_AjaxAddToCart",
+  "license": "The MIT License",
+  "authors": [
+    {
+      "name": "Something Digital",
+      "email": "sdinteractive@somethingdigital.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
